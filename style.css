@@ -84,12 +84,7 @@ width:100px;
     padding-right:20vw;
 }
 
-.house{
 
-  width:25px;
-  height:25px;
-
-}
 
 .python2{
   float:left;
@@ -238,5 +233,32 @@ button{
   padding:20px;
   text-align: left;
 }
+
+
+
+
+
+
+
+
+
+/*real home page */
+
+.house{
+
+  width:25px;
+  height:25px;
+}
+
+
+.balloons{
+
+
+}
+
+
+
+
+
 
 
