@@ -252,11 +252,28 @@ button{
 
 
 .balloons{
-
+  width:100%;
+  height:100%;
 
 }
 
 
+
+
+.box {
+  position: absolute;
+  top: 35%;
+  left: 17%;
+  border-width: 20px 20px 20px 20px; /* top right bottom left */
+  border-style: solid;
+  border-color: lightblue;
+  background-color: lightgrey;
+  width: 50%;
+  height: 30%;
+  opacity: 0.9;
+  padding: 50px;
+  margin: 20px;
+}
 
 
 
