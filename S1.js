@@ -31,6 +31,46 @@ function S1_button2018(){
     }
 }
 
+function S1_button2017(){
+    var x = document.getElementById("S1-button2017");
+   
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function S1_button2016(){
+    var x = document.getElementById("S1-button2016");
+   
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function S1_button2015(){
+    var x = document.getElementById("S1-button2015");
+   
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function S1_button2014(){
+    var x = document.getElementById("S1-button2014");
+   
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
 function S1_button2009(){
     var x = document.getElementById("S1-button2009");
    
@@ -70,6 +110,47 @@ function S1_2019(){
 
 function S1_2018(){
     var x = document.getElementById("S1-2018");
+   
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+
+function S1_2017(){
+    var x = document.getElementById("S1-2017");
+   
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function S1_2016(){
+    var x = document.getElementById("S1-2016");
+   
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function S1_2015(){
+    var x = document.getElementById("S1-2015");
+   
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function S1_2014(){
+    var x = document.getElementById("S1-2014");
    
     if (x.style.display === "block") {
       x.style.display = "none";
