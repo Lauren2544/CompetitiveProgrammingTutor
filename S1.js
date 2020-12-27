@@ -71,6 +71,17 @@ function S1_button2014(){
     }
 }
 
+
+function S1_button2013(){
+    var x = document.getElementById("S1-button2013");
+   
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
 function S1_button2009(){
     var x = document.getElementById("S1-button2009");
    
@@ -151,6 +162,16 @@ function S1_2015(){
 
 function S1_2014(){
     var x = document.getElementById("S1-2014");
+   
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function S1_2013(){
+    var x = document.getElementById("S1-2013");
    
     if (x.style.display === "block") {
       x.style.display = "none";
