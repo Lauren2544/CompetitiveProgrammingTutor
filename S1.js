@@ -82,6 +82,33 @@ function S1_button2013(){
     }
 }
 
+function S1_button2012(){
+    var x = document.getElementById("S1-button2012");
+   
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+function S1_button2011(){
+    var x = document.getElementById("S1-button2011");
+   
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+function S1_button2010(){
+    var x = document.getElementById("S1-button2010");
+   
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
 function S1_button2009(){
     var x = document.getElementById("S1-button2009");
    
@@ -91,6 +118,50 @@ function S1_button2009(){
       x.style.display = "block";
     }
 }
+function S1_button2008(){
+    var x = document.getElementById("S1-button2008");
+   
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+function S1_button2007(){
+    var x = document.getElementById("S1-button2007");
+   
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+function S1_button2006(){
+    var x = document.getElementById("S1-button2006");
+   
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+function S1_button2005(){
+    var x = document.getElementById("S1-button2005");
+   
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+
+
+
+
+
+
+
 
 
 
@@ -179,9 +250,72 @@ function S1_2013(){
       x.style.display = "block";
     }
 }
+function S1_2012(){
+    var x = document.getElementById("S1-2012");
+   
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+function S1_2011(){
+    var x = document.getElementById("S1-2011");
+   
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+function S1_2010(){
+    var x = document.getElementById("S1-2010");
+   
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
 
 function S1_2009(){
     var x = document.getElementById("S1-2009");
+   
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+function S1_2008(){
+    var x = document.getElementById("S1-2008");
+   
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+function S1_2007(){
+    var x = document.getElementById("S1-2007");
+   
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+function S1_2006(){
+    var x = document.getElementById("S1-2006");
+   
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+function S1_2005(){
+    var x = document.getElementById("S1-2005");
    
     if (x.style.display === "block") {
       x.style.display = "none";
